@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and cached features
+data/
+cache/
+caches/
+*.fif
+*.set
+*.edf
+*.bdf
+
+# Model checkpoints
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+
+# Logs and temporary files
+logs/
+*.log
+.DS_Store
